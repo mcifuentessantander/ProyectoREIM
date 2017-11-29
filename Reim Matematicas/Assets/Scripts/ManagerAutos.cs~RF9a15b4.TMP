@@ -1,0 +1,30 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ManagerAutos : MonoBehaviour {
+
+
+    public Autos auto;
+
+	// Use this for initialization
+	void Start () {
+
+        BlqAuto();
+
+}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+
+    void BlqAuto() {
+
+        if (auto.bloqueado == true)
+        {
+            auto.GetComponent<SpriteRenderer>().color = Color.black;
+        }
+    }
+}

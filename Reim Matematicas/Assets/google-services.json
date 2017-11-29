@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130824168746",
+    "firebase_url": "https://reims-4d00f.firebaseio.com",
+    "project_id": "reims-4d00f",
+    "storage_bucket": "reims-4d00f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130824168746:android:3c1944563ee56426",
+        "android_client_info": {
+          "package_name": "com.Reims.ProductName"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130824168746-625gl7pau45gp9ui8ljhiplq9p32fe55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI7bzUwi-ctcNgQjAsnJhiwgjZjFpcPgc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
